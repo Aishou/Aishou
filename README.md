@@ -28,15 +28,17 @@ company: "Neurona.design"
 current_focus: "AINCRAD OS — The AI Companion Operating System"
 
 background:
-  education: "Self-taught developer with 15+ years of coding experience"
-  started: "First lines of code at age 16 — never stopped since"
+  education: "Self-taught developer with 25+ years of coding experience"
+  started: "First lines of code at age 6-7 with Fortran and Borland"
+  journey: "Fortran → Borland → C/C++ → C# → Python → Java → Rust (+ some Perl)"
   languages_spoken: ["German (native)", "English (fluent)", "Japanese (learning)"]
   
 career_path:
-  - "Started with game modding and reverse engineering"
-  - "Moved into IT security and penetration testing"
-  - "Fell in love with systems programming and OS development"
-  - "Now building the OS I always wished existed"
+  - "Started coding as a kid — Fortran on my dad's old machine"
+  - "Borland C++ era: game modding and reverse engineering"
+  - "IT security and penetration testing phase"
+  - "Systems programming and OS development"
+  - "Now: Moonshot thinking — building the OS I always wished existed"
 
 roles:
   - "🖥️ System Engineer — Low-level is where the magic happens"
