@@ -51,6 +51,19 @@ security_background:
     - "Security Auditing & Code Review"
   approach: "Still actively researching — you can't build secure systems without knowing how to break them"
 
+gaming_underground:
+  era: "Early-to-mid 2010s — the golden age of private servers"
+  skills:
+    - "Reverse engineering game protocols & server binaries"
+    - "Network packet analysis and custom client mods"
+    - "Database management for massive player bases"
+  history: |
+    Ran some of the largest German private servers back in the day.
+    Counter-Strike: Source communities, MMO private servers...
+    One particular MMORPG server became the biggest in Germany for a while.
+    Long forgotten now, but those were formative years.
+  learned: "Scaling, community management, and why UDP is both a blessing and a curse"
+
 roles:
   - "🖥️ System Engineer — Low-level is where the magic happens"
   - "🤖 ML/RL Researcher — Teaching machines to learn"
