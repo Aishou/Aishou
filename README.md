@@ -38,9 +38,18 @@ career_path:
   - "Started coding as a kid — Fortran on my dad's old machine"
   - "Grew up on SUSE/openSUSE — learned Linux the RPM way"
   - "Borland C++ era: game modding and reverse engineering"
-  - "IT security and penetration testing phase"
+  - "Deep dive into IT Security — pen testing, exploit dev"
   - "Systems programming and OS development"
   - "Now: Moonshot thinking — building the OS I always wished existed"
+
+security_background:
+  philosophy: "Exploit & Conquer — understand systems by breaking them"
+  experience:
+    - "Penetration Testing (Black Box & White Box)"
+    - "Vulnerability Research & Exploit Development"
+    - "Reverse Engineering (binaries, protocols, firmware)"
+    - "Security Auditing & Code Review"
+  approach: "Still actively researching — you can't build secure systems without knowing how to break them"
 
 roles:
   - "🖥️ System Engineer — Low-level is where the magic happens"
