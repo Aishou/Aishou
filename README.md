@@ -53,6 +53,7 @@ security_background:
 
 gaming_underground:
   era: "Early-to-mid 2010s — the golden age of private servers"
+  community: "elitepvpers veteran 🏴‍☠️"
   skills:
     - "Reverse engineering game protocols & server binaries"
     - "Network packet analysis and custom client mods"
