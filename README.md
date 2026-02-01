@@ -9,7 +9,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_fabian--ewers.de-12121a?style=for-the-badge&labelColor=ff6b35)](https://fabian-ewers.de)
-[![Neurona](https://img.shields.io/badge/🏢_Neurona.design-12121a?style=for-the-badge&labelColor=508cff)](https://neurona.design)
+[![Neurona](https://img.shields.io/badge/🏢_Neurona.design_(i.Gr.)-12121a?style=for-the-badge&labelColor=508cff)](https://neurona.design)
 [![Location](https://img.shields.io/badge/📍_Germany-12121a?style=for-the-badge&labelColor=a855f7)]()
 
 </div>
@@ -23,7 +23,7 @@ name: "Kaito"
 handle: "@Aishou"
 location: "Germany 🇩🇪"
 age: 31
-company: "Neurona.design"
+company: "Neurona.design (i.Gr.)"  # in Gründung — not yet operational
 
 current_focus: "AINCRAD OS — The AI Companion Operating System"
 
@@ -31,10 +31,12 @@ background:
   education: "Self-taught developer with 25+ years of coding experience"
   started: "First lines of code at age 6-7 with Fortran and Borland"
   journey: "Fortran → Borland → C/C++ → C# → Python → Java → Rust (+ some Perl)"
+  home_distro: "openSUSE Tumbleweed (SUSE kid since the early days, never liked Ubuntu)"
   languages_spoken: ["German (native)", "English (fluent)", "Japanese (learning)"]
   
 career_path:
   - "Started coding as a kid — Fortran on my dad's old machine"
+  - "Grew up on SUSE/openSUSE — learned Linux the RPM way"
   - "Borland C++ era: game modding and reverse engineering"
   - "IT security and penetration testing phase"
   - "Systems programming and OS development"
