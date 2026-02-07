@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12121a,50:ff6b35,100:508cff&height=200&section=header&text=Kaito%20%7C%20Aishou&fontSize=50&fontColor=f1f5f9&animation=twinkling&fontAlignY=35&desc=System%20Engineer%20%E2%94%82%20ML%20Researcher%20%E2%94%82%20OS%20Architect&descSize=18&descAlignY=55"/>
 
 <!-- Typing SVG with Ember Orange -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+AINCRAD+OS+%F0%9F%8F%B0+The+AI+Companion+System;Warmth+through+technology+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+ALITHIA+OS+%F0%9F%94%A5+The+Zero-Copy+AI-Native+System;Warmth+through+technology+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,7 +25,7 @@ location: "Germany 🇩🇪"
 age: 31
 company: "Neurona.design (i.Gr.)"  # in Gründung — not yet operational
 
-current_focus: "AINCRAD OS — The AI Companion Operating System"
+current_focus: "ALITHIA OS — The Zero-Copy AI-Native Operating System"
 
 background:
   education: "Self-taught developer with 25+ years of coding experience"
@@ -138,7 +138,7 @@ motto: "Keep learning. Stay curious. Share what you know."
 
 ---
 
-## 🏰 Featured Project: AINCRAD OS
+## 🔥 Featured Project: ALITHIA OS
 
 <div align="center">
 
@@ -150,7 +150,7 @@ motto: "Keep learning. Stay curious. Share what you know."
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║  🏰 AINCRAD Architecture — 7 Floors                                       ║
+║  🔥 ALITHIA Architecture — 7 Floors                                       ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║  F06 REALITY      │ Murmur │ 🔥 Ember UI, Slipstream, Personas            ║
 ║  F05 TRANSACTIONS │ Murmur │ 🔐 Gateway, TrustForge, MuxELF               ║
